@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "has_rse"
+version = "0.1.0"
+description = "Find if a university has a RSE department/group"
+authors = ["Gabriele Bozzola <gbozzola@caltech.edu>"]
+license = "GPL-3.0-or-later"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.32.3"
+duckduckgo-search = "^6.2.12"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.8.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

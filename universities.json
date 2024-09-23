@@ -1,0 +1,732 @@
+[
+    {
+        "name": "Arizona State University",
+        "has_rse": true,
+        "link": "https://rse.asu.edu/"
+    },
+    {
+        "name": "Auburn University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Baylor University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Binghamton University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Boston College",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Boston University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Brandeis University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Brown University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "California Institute of Technology",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Carnegie Mellon University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Case Western Reserve University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Clemson University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Colorado School of Mines",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Colorado State University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Columbia University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Cornell University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Dartmouth College",
+        "has_rse": true,
+        "link": "https://rc.dartmouth.edu/index.php/research-software-engineering/"
+    },
+    {
+        "name": "Drexel University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Duke University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Emory University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Florida International University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Florida State University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "George Mason University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "George Washington University",
+        "has_rse": true,
+        "link": "https://trustworthyai.gwu.edu/research-software-engineering-workshop"
+    },
+    {
+        "name": "Georgetown University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Georgia Institute of Technology",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Georgia State University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Graduate Center, CUNY",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Harvard University",
+        "has_rse": true,
+        "link": "https://huit.harvard.edu/rse-consultation"
+    },
+    {
+        "name": "Indiana University Bloomington",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Iowa State University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Johns Hopkins University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Kansas State University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Kent State University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Louisiana State University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Massachusetts Institute of Technology",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Michigan State University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Mississippi State University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Montana State University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "New Jersey Institute of Technology",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "New York University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "North Carolina State University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "North Dakota State University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Northeastern University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Northwestern University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Ohio State University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Ohio University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Oklahoma State University\u2013Stillwater",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Old Dominion University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Oregon State University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Pennsylvania State University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Princeton University",
+        "has_rse": true,
+        "link": "https://researchcomputing.princeton.edu/services/research-software-engineering"
+    },
+    {
+        "name": "Purdue University",
+        "has_rse": true,
+        "link": "https://www.rcac.purdue.edu/news/6235"
+    },
+    {
+        "name": "Rensselaer Polytechnic Institute",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Rice University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Rutgers University\u2013New Brunswick",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Stanford University",
+        "has_rse": true,
+        "link": "https://uit.stanford.edu/service/rse"
+    },
+    {
+        "name": "Stony Brook University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Syracuse University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Temple University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Texas A&M University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Texas Tech University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Tufts University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Tulane University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University at Albany, SUNY",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University at Buffalo",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Alabama",
+        "has_rse": true,
+        "link": "https://cs.ua.edu/research/research-software-engineering/"
+    },
+    {
+        "name": "University of Alabama at Birmingham",
+        "has_rse": true,
+        "link": "https://cs.ua.edu/research/research-software-engineering/"
+    },
+    {
+        "name": "University of Alabama in Huntsville",
+        "has_rse": true,
+        "link": "https://cs.ua.edu/research/research-software-engineering/"
+    },
+    {
+        "name": "University of Arizona",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Arkansas",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of California, Berkeley",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of California, Davis",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of California, Irvine",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of California, Los Angeles",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of California, Riverside",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of California, San Diego",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of California, Santa Barbara",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of California, Santa Cruz",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Central Florida",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Chicago",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Cincinnati",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Colorado Boulder",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Colorado Denver",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Connecticut",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Delaware",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Denver",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Florida",
+        "has_rse": true,
+        "link": "https://www.rc.ufl.edu/about/rse/"
+    },
+    {
+        "name": "University of Georgia",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Hawaii at Manoa",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Houston",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Illinois Chicago",
+        "has_rse": true,
+        "link": "https://experts.illinois.edu/en/publications/the-four-pillars-of-research-software-engineering"
+    },
+    {
+        "name": "University of Illinois Urbana-Champaign",
+        "has_rse": true,
+        "link": "https://experts.illinois.edu/en/publications/research-software-engineering-in-2030"
+    },
+    {
+        "name": "University of Iowa",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Kansas",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Kentucky",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Louisiana at Lafayette",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Louisville",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Maine",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Maryland, Baltimore County",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Maryland, College Park",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Massachusetts Amherst",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Memphis",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Miami",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Michigan",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Minnesota",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Mississippi",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Missouri",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Montana",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Nebraska\u2013Lincoln",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Nevada, Las Vegas",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Nevada, Reno",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of New Hampshire",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of New Mexico",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of North Carolina at Chapel Hill",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of North Texas",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Notre Dame",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Oklahoma",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Oregon",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Pennsylvania",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Pittsburgh",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Rochester",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of South Carolina",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of South Florida",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Southern California",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Southern Mississippi",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Tennessee",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Texas at Arlington",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Texas at Austin",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Texas at Dallas",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Texas at El Paso",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Texas at San Antonio",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Utah",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Virginia",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "University of Washington",
+        "has_rse": true,
+        "link": "https://escience.washington.edu/software-engineering/ssec/"
+    },
+    {
+        "name": "University of Wisconsin\u2013Madison",
+        "has_rse": true,
+        "link": "https://www.cs.wisc.edu/2023/08/22/research-software-engineer-full-time/"
+    },
+    {
+        "name": "University of Wisconsin\u2013Milwaukee",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Utah State University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Vanderbilt University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Virginia Commonwealth University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Virginia Tech",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Washington State University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Washington University in St. Louis",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Wayne State University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "West Virginia University",
+        "has_rse": false,
+        "link": ""
+    },
+    {
+        "name": "Yale University",
+        "has_rse": false,
+        "link": ""
+    }
+]

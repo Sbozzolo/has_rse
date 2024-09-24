@@ -56,8 +56,8 @@
     },
     {
         "name": "Clemson University",
-        "has_rse": true,
-        "link": "https://career.clemson.edu/jobs/ibm-software-engineer-ai-powered-automation-intern-2025/"
+        "has_rse": false,
+        "link": ""
     },
     {
         "name": "Colorado School of Mines",
@@ -461,8 +461,8 @@
     },
     {
         "name": "University of Illinois Urbana-Champaign",
-        "has_rse": true,
-        "link": "https://experts.illinois.edu/en/publications/the-four-pillars-of-research-software-engineering"
+        "has_rse": false,
+        "link": ""
     },
     {
         "name": "University of Iowa",

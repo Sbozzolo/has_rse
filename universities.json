@@ -1,8 +1,8 @@
 [
     {
         "name": "Arizona State University",
-        "has_rse": false,
-        "link": ""
+        "has_rse": true,
+        "link": "https://rse.asu.edu/"
     },
     {
         "name": "Auburn University",
@@ -116,8 +116,8 @@
     },
     {
         "name": "George Washington University",
-        "has_rse": true,
-        "link": "https://trustworthyai.gwu.edu/research-software-engineering-workshop"
+        "has_rse": false,
+        "link": ""
     },
     {
         "name": "Georgetown University",
@@ -261,8 +261,8 @@
     },
     {
         "name": "Purdue University",
-        "has_rse": false,
-        "link": ""
+        "has_rse": true,
+        "link": "https://www.rcac.purdue.edu/news/6235"
     },
     {
         "name": "Rensselaer Polytechnic Institute",
@@ -462,7 +462,7 @@
     {
         "name": "University of Illinois Urbana-Champaign",
         "has_rse": true,
-        "link": "https://experts.illinois.edu/en/publications/research-software-engineering-in-2030"
+        "link": "https://experts.illinois.edu/en/publications/the-four-pillars-of-research-software-engineering"
     },
     {
         "name": "University of Iowa",

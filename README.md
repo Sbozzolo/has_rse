@@ -2,7 +2,7 @@
 [![Run and deploy](https://github.com/Sbozzolo/has_rse/actions/workflows/deploy.yml/badge.svg)](https://github.com/Sbozzolo/has_rse/actions/workflows/deploy.yml)
 [![Here](https://img.shields.io/badge/list_is_here-click_me!-blue.svg)](https://sbozzolo.github.io/has_rse)
 
-This repository automatically generates a list of R1 universities in the US that appear to have Research Software Engineering (RSE) groups based on web searches. The list is updated weekly and deployed to GitHub Pages. You can access the live list [here](https://gbozzola.github.io/has_rse/).
+This repository automatically generates a list of R1 universities in the US that appear to have Research Software Engineering (RSE) groups based on web searches. The list is updated monthly and deployed to GitHub Pages. You can access the live list [here](https://gbozzola.github.io/has_rse/).
 
 ## How it Works
 

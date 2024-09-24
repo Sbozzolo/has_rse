@@ -70,7 +70,9 @@ def extract_rse_info(search_results: List[Dict]) -> Optional[Dict]:
         "rse team",
         "rse department",
     }
-    exclude_keywords = {"personal"}
+    exclude_keywords = {"personal",
+                        "research software engineering workshop",
+                        "full time"}
 
     for result in search_results:
         lowercase_body = result["body"].lower()

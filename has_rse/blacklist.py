@@ -8,4 +8,6 @@ blacklisted = {
     "https://experts.illinois.edu/en/publications/what-do-we-not-know-about-research-software-engineering",
     "https://people.cs.umass.edu/~brun/",
     "https://research.nd.edu/news-and-events/news/building-a-career-path-for-research-software-engineers/",
+    "https://experts.illinois.edu/en/publications/research-software-engineering-in-2030",
+    "https://www.vanderbilt.edu/accre/accre-staff/"
 }

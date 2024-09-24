@@ -29,7 +29,7 @@ def generate_html(university_data: List[Dict], out_path: str) -> None:
     <div class="centered-content">
       <h1>R1 Universities with RSE Groups</h1>
       <p>As of {last_checked_date}, <strong>{universities_with_rse} out of {total_universities}</strong> R1 universities
-         appear to have RSE groups based on search results. If you find errors, please, open an <a href=https://github.com/Sbozzolo/has_rse/issues>issue</a>. </p>
+         appear to have RSE groups based on search results. If you find errors, please, open an <a href=https://github.com/Sbozzolo/has_rse/issues>issue</a>. See code  <a href=https://github.com/Sbozzolo/has_rse>here</a>. </p>
 
       <input type="text" id="searchInput" placeholder="Search universities..." class="awesomplete" list="universityList">
       <datalist id="universityList">

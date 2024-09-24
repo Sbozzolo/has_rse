@@ -1,9 +1,10 @@
 name: Deploy to GitHub Pages
 
-on: [push, pull_request]
-# on:
-#   schedule:
-#     - cron: '0 0 * * 0' # Run every Sunday at 00:00 UTC
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: '17 3 11 * *' # Run on the 11th of every month at 03:17 UTC
 
 jobs:
   build-and-deploy:

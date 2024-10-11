@@ -19,7 +19,7 @@ logger = logging.getLogger(__name__)
 # Increased sleep time to 0.5 seconds
 SLEEP_TIME = 0.5
 RETRY_DELAY = 60  # Delay in seconds before retrying after rate limiting
-MAX_ATTEMPTS = 3
+MAX_ATTEMPTS = 5
 
 
 def search_for_rse_info(university: str) -> List[Dict]:
@@ -41,9 +41,14 @@ def search_for_rse_info(university: str) -> List[Dict]:
             results = DDGS().text(query, region="us-en", max_results=10)
             break  # Exit loop if search is successful
         except RatelimitException:
-            logger.warning(f"Rate limit exceeded. Retrying in {RETRY_DELAY} seconds...")
-            sleep(RETRY_DELAY)
+            delay = attempts * RETRY_DELAY
+            logger.warning(f"Rate limit exceeded. Retrying in {delay} seconds...")
+            sleep(delay)
             attempts = attempts + 1
+
+    if attempts > MAX_ATTEMPTS:
+        print("Too many attempts!")
+        exit(1)
 
     filtered_results = [
         result
@@ -70,9 +75,11 @@ def extract_rse_info(search_results: List[Dict]) -> Optional[Dict]:
         "rse team",
         "rse department",
     }
-    exclude_keywords = {"personal",
-                        "research software engineering workshop",
-                        "full time"}
+    exclude_keywords = {
+        "personal",
+        "research software engineering workshop",
+        "full time",
+    }
 
     for result in search_results:
         lowercase_body = result["body"].lower()
